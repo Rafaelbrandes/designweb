@@ -1,4 +1,10 @@
-um texto
+Rafael Vieira Brandes
+período: primeiro período
+disciplina: desenvolvimento web
+ano: 2024
+
+
+
 o python é uma das linguagns de programação mais utilizadas em desenvolvimento de software
 ele é bastante usado por ser facil de apremder e pode ser executado em diversas plataformas diferentes
 https://www.python.org/
