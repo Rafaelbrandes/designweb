@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-     <meta charset="utf-8">
+     <title>meu primeiro trabalho</title>
+    <style>p{color: aqua;}</style>
+    
+    
+    <meta charset="utf-8">
        <title>Documento de Teste</title>
  </head>
  <body>
