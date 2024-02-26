@@ -1,0 +1,13 @@
+um texto
+o python é uma das linguagns de programação mais utilizadas em desenvolvimento de software
+ele é bastante usado por ser facil de apremder e pode ser executado em diversas plataformas diferentes
+https://www.python.org/
+
+https://git-scm.com/about
+o git é uma ferramenta que permite que seus trabalhos sejam salvos e possam ser acessaods em qualquer computador
+
+https://code.visualstudio.com/
+é um editor q ajuda os programadores na criação de um código de softeare
+
+https://sqlitebrowser.org/
+é uma ferramenta visual de alta qualidade e de código aberto para criar, projetar e editar arquivos de banco de dados  
